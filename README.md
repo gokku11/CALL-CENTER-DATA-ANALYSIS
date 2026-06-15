@@ -1,4 +1,3 @@
-```markdown
 # Call Center Dashboard
 
 ## Project Overview
